@@ -200,5 +200,5 @@ module.exports = {
 | GET | [http://localhost:3000/api/youtubeFake][PlMe] |
 
 #### Test Validation Resourse
-Reference link ![TEST](https://github.com/cosmeaf/aplicativo_youtube/blob/master/public/img_github/image-signin.jpg)(https://resttesttest.com/)
+Reference link ![TEST](https://resttesttest.com/)(https://github.com/cosmeaf/aplicativo_youtube/blob/master/public/img_github/image-signin.jpg)
 

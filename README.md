@@ -1,5 +1,7 @@
 # Aplicativo de gerenciamento de vídeos do youtube
+
 ![NPM](https://img.shields.io/npm/v/cors.svg)
+
 Seu objetivo é criar um aplicativo de gerenciamento de vídeos do youtube, que permita aos usuários pesquisar e assistir o vídeo escolhido.
 
 ### Installation

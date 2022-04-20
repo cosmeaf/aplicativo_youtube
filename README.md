@@ -191,17 +191,15 @@ module.exports = {
 #### Router
 | VERBS | ENDPOINT |
 | ------ | ------ |
-| POST | [http://localhost:3000/api/signup][PlDb] |
-| POST | [http://localhost:3000/api/signin][PlGh] |
-| GET | [http://localhost:3000/api/users][PlGd] |
-| GET | [http://localhost:3000/api/users/:id][PlOd] |
-| PUT | [http://localhost:3000/api/users/:id][PlMe] |
-| DELETE | [http://localhost:3000/api/users/:id][PlMe] |
-| GET | [http://localhost:3000/api/youtubeFake][PlMe] |
+| POST | http://localhost:3000/api/signup |
+| POST | http://localhost:3000/api/signin |
+| GET |  http://localhost:3000/api/users   |
+| GET |  http://localhost:3000/api/users/:id |
+| PUT |  http://localhost:3000/api/users/:id |
+| DELETE | http://localhost:3000/api/users/:id |
+| GET |  http://localhost:3000/api/youtubeFake |
 
 #### Test Validation Resourse
-
-Reference link ![(https://resttesttest.com/)]
-
-![TEST](https://github.com/cosmeaf/aplicativo_youtube/blob/master/public/img_github/image-signin.jpg)
+Reference link: https://resttesttest.com
+![REFERENCE|LINK](https://github.com/cosmeaf/aplicativo_youtube/blob/master/public/img_github/image-signin.jpg)
 

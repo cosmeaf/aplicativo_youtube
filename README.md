@@ -8,7 +8,8 @@ nodejs na versão: v16.14.2
 Install the dependencies and devDependencies and start the server.
 
 ```
-npm install bcrypt cors dotenv express express-validator googleapis mysql2 sequelize validator youtube-search-without-api-key mustache-express --save
+npm install bcrypt cors dotenv express express-validator googleapis --save
+npm install mysql2 sequelize validator youtube-search-without-api-key mustache-express --save
 ```
 ```
 npm install nodemon --save-dev

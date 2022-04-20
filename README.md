@@ -17,4 +17,4 @@ npm install nodemon --save-dev
 ### The project used format MVC and Route
 MVC is an acronym for Model-View-Controller and is a software design pattern, or software architecture pattern formulated in the 1970s, focused on code reuse and three-tier separation of concepts.
 
-![MVC](https://github.com/cosmeaf/aplicativo_youtube/blob/master/public/img_github/padrao_mvc.png)
+![MVC](https://github.com/cosmeaf/aplicativo_youtube/blob/master/public/img_github/padrao_mvc.jpg)
